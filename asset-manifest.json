@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hannahstebnicki/robofriends/static/css/main.bb28465e.chunk.css",
+    "main.js": "/hannahstebnicki/robofriends/static/js/main.b65be977.chunk.js",
+    "main.js.map": "/hannahstebnicki/robofriends/static/js/main.b65be977.chunk.js.map",
+    "runtime-main.js": "/hannahstebnicki/robofriends/static/js/runtime-main.f5ca607f.js",
+    "runtime-main.js.map": "/hannahstebnicki/robofriends/static/js/runtime-main.f5ca607f.js.map",
+    "static/css/2.299a5230.chunk.css": "/hannahstebnicki/robofriends/static/css/2.299a5230.chunk.css",
+    "static/js/2.167b5057.chunk.js": "/hannahstebnicki/robofriends/static/js/2.167b5057.chunk.js",
+    "static/js/2.167b5057.chunk.js.map": "/hannahstebnicki/robofriends/static/js/2.167b5057.chunk.js.map",
+    "index.html": "/hannahstebnicki/robofriends/index.html",
+    "precache-manifest.65fd8ca971096bcffd3b0c5926ce812a.js": "/hannahstebnicki/robofriends/precache-manifest.65fd8ca971096bcffd3b0c5926ce812a.js",
+    "service-worker.js": "/hannahstebnicki/robofriends/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/hannahstebnicki/robofriends/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.bb28465e.chunk.css.map": "/hannahstebnicki/robofriends/static/css/main.bb28465e.chunk.css.map",
+    "static/js/2.167b5057.chunk.js.LICENSE": "/hannahstebnicki/robofriends/static/js/2.167b5057.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5ca607f.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.167b5057.chunk.js",
+    "static/css/main.bb28465e.chunk.css",
+    "static/js/main.b65be977.chunk.js"
+  ]
+}
